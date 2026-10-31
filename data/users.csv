@@ -1,0 +1,4 @@
+role,id,username,email,password,walletBalance,ownedGames,wishlistGames,department
+ADMIN,"U001","admin","admin@gamegrid.com","admin123",0.0,"","","Store Operations"
+CUSTOMER,"U002","gamer_john","john@email.com","pass123",150.00,"G101;G106","G102;G103",""
+CUSTOMER,"U003","cyber_sam","sam@email.com","pass123",80.00,"G103","G104",""

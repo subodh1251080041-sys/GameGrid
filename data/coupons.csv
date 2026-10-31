@@ -1,0 +1,5 @@
+code,discountPercentage,minOrderValue,active
+WELCOME20,20.00,20.00,true
+SUMMER50,50.00,50.00,true
+GRID10,10.00,0.00,true
+LEVELUP15,15.00,25.00,true

@@ -1,0 +1,11 @@
+type,id,title,genre,publisher,basePrice,discountPercentage,rating,releaseYear,sizeGb,extra1,extra2,extra3
+STANDARD,"G101","The Witcher 3: Wild Hunt",RPG,"CD Projekt Red",39.99,50.00,4.90,2015,50.0,"true","",""
+DELUXE,"G102","Cyberpunk 2077: Phantom Liberty",RPG,"CD Projekt Red",59.99,25.00,4.70,2023,70.0,"true","true","20.0"
+STANDARD,"G103","Elden Ring",RPG,"FromSoftware",59.99,15.00,4.90,2022,60.0,"false","",""
+EARLY_ACCESS,"G104","Hades II",ACTION,"Supergiant Games",29.99,0.00,4.80,2024,10.0,"v0.9.1-beta","10.0",""
+DELUXE,"G105","Baldur's Gate 3 Collector",RPG,"Larian Studios",69.99,10.00,5.00,2023,122.0,"true","true","15.0"
+STANDARD,"G106","Hollow Knight",INDIE,"Team Cherry",14.99,50.00,4.90,2017,9.0,"true","",""
+STANDARD,"G107","Grand Theft Auto V",ACTION,"Rockstar Games",29.99,60.00,4.80,2015,95.0,"false","",""
+EARLY_ACCESS,"G108","No Rest for the Wicked",ACTION,"Moon Studios",39.99,10.00,4.40,2024,35.0,"v0.3-preview","10.0",""
+STANDARD,"G109","Stardew Valley",SIMULATION,"ConcernedApe",14.99,20.00,4.90,2016,1.5,"true","",""
+DELUXE,"G110","Red Dead Redemption 2 Deluxe",ADVENTURE,"Rockstar Games",59.99,65.00,4.90,2018,115.0,"true","true","25.0"
